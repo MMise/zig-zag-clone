@@ -11,9 +11,7 @@
 /[Mm]emoryCaptures/
 
 # 3rd party assets and textures
-Assets/Hand*Painted*Stone*Texture/
-Assets/Supercyan*Character*Pack*Free*Sample/
-Assets/Character/
+Assets/3rdParty/
 
 #DS_Store
 .DS_Store
